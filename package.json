@@ -1,7 +1,7 @@
 {
-  "name": "node-demo",
+  "name": "node-with-mongo-db",
   "version": "1.0.0",
-  "description": "Node demo showing how to store data into a MongoDB database",
+  "description": "This demo showing how to store data into a MongoDB database",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
     "mongoose",
     "demo"
   ],
-  "author": "Jennifer Bland",
+  "author": "D-company",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
