@@ -1,7 +1,7 @@
 {
-  "name": "node-with-mongo-db",
+  "name": "usermanagementbackend",
   "version": "1.0.0",
-  "description": "This demo showing how to store data into a MongoDB database",
+  "description": "This is BackEnd our sample project of User management written in Nodejs with MongoDB",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,10 @@
     "mongoose",
     "demo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sipubohre/UserManagementBackEnd.git"
+  },
   "author": "D-company",
   "license": "ISC",
   "dependencies": {
@@ -19,4 +23,8 @@
     "express": "^4.14.0",
     "mongoose": "^4.6.7"
   }
+  "bugs": {
+    "url": "https://github.com/sipubohre/UserManagementBackEnd/issues"
+  },
+  "homepage": "https://github.com/sipubohre/UserManagementBackEnd#readme"
 }
